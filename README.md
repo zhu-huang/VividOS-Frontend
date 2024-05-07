@@ -2,7 +2,7 @@
 
 User interface for VividOS
 
-#Building
+# Building
 
 This project is not completed
 
